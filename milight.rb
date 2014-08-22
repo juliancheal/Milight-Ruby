@@ -20,4 +20,13 @@ class Milight
   
   def light_status
   end
+  
+  def sendMessage
+  end
+  
+  def disco_mode
+  end
+  
+  def color
+  end
 end
